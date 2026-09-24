@@ -1,4 +1,4 @@
-# Meet — AGENTS.md
+# Openchattt — AGENTS.md
 
 Full-stack AI app. Read this before coding.
 
