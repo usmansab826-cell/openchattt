@@ -1,5 +1,5 @@
 ---
-name: uv-python-starter
+name: py-uv-starter
 description: Scaffold a new Python backend project with uv (init, run, sync) and a Hello World entry point. Use when the user asks to start, bootstrap or scaffold a Python/uv project or backend.
 ---
 
